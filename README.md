@@ -1,2 +1,2 @@
 # Fuel-Efficiency-Prediction-using-ML
-Fuel Efficiency Prediction using TensorFlow model
+Car Price Prediction using Linear Regression and Lasso Regression techniques 
