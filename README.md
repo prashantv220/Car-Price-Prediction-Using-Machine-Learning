@@ -1,2 +1,2 @@
 # Car-Price-Prediction-Using-Machine-Learning
-Car Price Prediction using Linear Regression and Lasso Regression techniques 
+Car Price Prediction using Linear, Lasso, and XGBoost Regression techniques 
